@@ -1,0 +1,344 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the
+# IATI Secretariat
+# This file is distributed under the same license as the IATI Web Terms
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Web Terms 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-06 14:46+0100\n"
+"PO-Revision-Date: 2025-03-14 10:00+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: French <fr@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../privacy-policy.rst:3
+msgid "Privacy Policy"
+msgstr "Politique de confidentialité"
+
+#: ../../privacy-policy.rst:5
+msgid ""
+"This Privacy Policy sets out how we, the International Aid Transparency "
+"Initiative (IATI), obtain, store and use your personal information when "
+"you use or interact with our websites, (:literal:`*.iatistandard.org`; "
+":literal:`*.aidinfolabs.org`; :literal:`*.iatiregistry.org`; "
+":literal:`*.iaticonnect.org`; :literal:`https://iati.zendesk.com`  - our "
+"websites), or where we otherwise obtain or collect your personal "
+"information."
+msgstr ""
+"La présente politique de confidentialité établit comment l'Initiative "
+"internationale pour la transparence de l'aide (IITA) obtient, stocke et "
+"utilise vos informations personnelles lorsque vous utilisez ou "
+"interagissez avec nos sites Internet (:literal:`*.iatistandard.org` ; "
+":literal:`*.aidinfolabs.org` ; :literal:`*.iatiregistry.org` ; :literal:`*.iaticonnect.org` ; "
+":literal:`https://iati.zendesk.com`, ci-après « nos sites Internet ») ou lorsque "
+"nous obtenons ou recueillons vos informations personnelles par tout autre"
+" moyen."
+
+#: ../../privacy-policy.rst:7
+msgid "This Privacy Policy is effective from 14th February 2024"
+msgstr ""
+"La présente politique de confidentialité prend effet à compter du 14 "
+"février 2024."
+
+#: ../../privacy-policy.rst:9
+msgid ""
+"We reserve the right to modify this policy at any time, so please check "
+"it frequently."
+msgstr ""
+"Nous nous réservons le droit de modifier cette politique à tout moment ; "
+"veuillez par conséquent la consulter fréquemment."
+
+#: ../../privacy-policy.rst:12
+msgid "1. The Information We Collect"
+msgstr "1. Les informations que nous recueillons"
+
+#: ../../privacy-policy.rst:14
+msgid "Information You Provide"
+msgstr "Les informations que vous nous fournissez"
+
+#: ../../privacy-policy.rst:16
+msgid ""
+"We collect data that you provide directly to us, including personal data."
+" “Personal Data” is information that identifies you. For IATI websites "
+"(:literal:`*.iatistandard.org`; :literal:`*.aidinfolabs.org`; "
+":literal:`*.iatiregistry.org`; :literal:`*.iaticonnect.org`; "
+":literal:`https://iati.zendesk.com`) this is collected in the context of "
+"one or more of the following options:"
+msgstr ""
+"Nous recueillons des informations que vous nous fournissez directement, "
+"notamment des données à caractère personnel. Les « données à caractère "
+"personnel » sont des informations permettant de vous identifier. En ce "
+"qui concerne les sites Internet de l'IITA (:literal:`*.iatistandard.org` ; "
+":literal:`*.aidinfolabs.org` ; :literal:`*.iatiregistry.org` ; :literal:`*.iaticonnect.org` ; "
+":literal:`https://iati.zendesk.com`), ces informations sont recueillies dans le "
+"cadre d'une ou de plusieurs des options suivantes :"
+
+#: ../../privacy-policy.rst:18
+msgid ""
+"**Newsletter subscriptions**. In which case we collect the following "
+"categories of personal data: Name and email address"
+msgstr ""
+"Abonnement au bulletin d'information – Dans ce cas, nous recueillons des "
+"données à caractère personnel appartenant aux catégories suivantes : Nom "
+"et adresse électronique."
+
+#: ../../privacy-policy.rst:19
+msgid ""
+"**Websites**. When you use our websites, we collect and analyse the "
+"following information about your computer or mobile device: your browser "
+"type, IP address, browser language, operating system, and other similar "
+"information."
+msgstr ""
+"Sites Internet – Lorsque vous utilisez nos sites Internet, nous "
+"recueillons et analysons les informations suivantes concernant votre "
+"ordinateur ou appareil mobile : type de navigateur, adresse IP, langue du"
+" navigateur, système d'exploitation et autres informations similaires."
+
+#: ../../privacy-policy.rst:20
+msgid ""
+"**Registered users**. When you create a user account for an IATI website,"
+" we collect the following categories of personal data: name, username and"
+" email address."
+msgstr ""
+"Utilisateurs enregistrés – Lorsque vous créez un compte utilisateur pour "
+"un site Internet de l'IITA, nous recueillons des données à caractère "
+"personnel appartenant aux catégories suivantes : nom, nom d'utilisateur "
+"et adresse électronique."
+
+#: ../../privacy-policy.rst:23
+msgid "2. Cookies"
+msgstr "2. Cookies"
+
+#: ../../privacy-policy.rst:25
+msgid "Please see :doc:`our cookie policy <cookie-policy>`."
+msgstr "Veuillez consulter notre politique en matière de cookies."
+
+#: ../../privacy-policy.rst:28
+msgid "3. How we use your information"
+msgstr "3. Comment nous utilisons vos informations"
+
+#: ../../privacy-policy.rst:30
+msgid ""
+"**Newsletters**. Only with your prior consent, we will occasionally send "
+"you information on events, recent work and other information. You can "
+"sign up to receive these emails and social media campaigns from us on our"
+" newsletter sign up."
+msgstr ""
+"Bulletins d'information – Nous vous enverrons parfois des informations "
+"concernant notamment nos événements et nos travaux récents, uniquement "
+"avec votre consentement préalable. Vous pouvez vous inscrire sur la page "
+"d'abonnement au bulletin d'information afin de recevoir nos courriers "
+"électroniques et de suivre nos campagnes sur les réseaux sociaux."
+
+#: ../../privacy-policy.rst:32
+msgid ""
+"The legal basis for such processing of your Personal Data is therefore "
+"your consent (Art. 6(1)(a) GDPR). Please note that you are not legally "
+"required to provide us with your Personal Data. However, without your "
+"Personal Data we will not be able to send you our newsletters as "
+"mentioned above."
+msgstr ""
+"La licéité du traitement de vos données à caractère personnel repose donc"
+" sur votre consentement (art. 6(1)(a) du RGPD). Veuillez noter que vous "
+"n'êtes pas légalement tenu de nous communiquer vos données à caractère "
+"personnel. Toutefois, sans ces dernières, nous ne serons pas en mesure de"
+" vous envoyer nos bulletins d'information mentionnés ci-dessus."
+
+#: ../../privacy-policy.rst:36
+msgid "4. Updating your personal information and unsubscribing"
+msgstr "4. Mise à jour de vos informations personnelles et désabonnement"
+
+#: ../../privacy-policy.rst:38
+msgid ""
+"You have the option to opt-out of these types of communications at any "
+"time, by clicking the ‘unsubscribe’ link at the footer of each "
+"communication."
+msgstr ""
+"Vous avez la possibilité de vous désabonner à tout moment de ces types de"
+" communication, en cliquant sur le lien « se désabonner » situé en bas de"
+" chaque communication."
+
+#: ../../privacy-policy.rst:41
+msgid "5. Your Rights"
+msgstr "5. Vos droits"
+
+#: ../../privacy-policy.rst:43
+msgid ""
+"Under the General Data Protection Regulation (GDPR), you have the "
+"following rights:"
+msgstr ""
+"En vertu du Règlement général sur la protection des données (RGPD), vous "
+"disposez des droits suivants :"
+
+#: ../../privacy-policy.rst:45
+msgid ""
+"Right of access (Art. 15 GDPR): You have the right to request "
+"confirmation as to whether or not your Personal Data is being processed, "
+"and, where that is the case, to request access to the Personal Data and "
+"information such as the purposes of the processing or the categories of "
+"Personal Data concerned."
+msgstr ""
+"Droit d'accès (art. 15 du RGPD) : vous avez le droit de demander la "
+"confirmation que vos données à caractère personnel sont ou ne sont pas "
+"traitées et, lorsqu'elles le sont, de demander un accès auxdites données "
+"à caractère personnel ainsi qu'à des informations telles que les "
+"finalités du traitement ou les catégories de données à caractère "
+"personnel concernées."
+
+#: ../../privacy-policy.rst:47
+msgid ""
+"Right to rectification (Art. 16 GDPR): You have the right to request the "
+"correction of inaccurate Personal Data."
+msgstr ""
+"Droit de rectification (art. 16 du RGPD) : vous avez le droit de demander"
+" la rectification des données à caractère personnel inexactes."
+
+#: ../../privacy-policy.rst:49
+msgid ""
+"Right to erasure (Art. 17 GDPR): You have the right to request erasure of"
+" Personal Data without undue delay under certain circumstances, e.g. if "
+"your Personal Data is no longer necessary for the purposes for which it "
+"was collected or if you withdraw consent on which processing is based "
+"according to Art. 6 (1)(a) GDPR and where there is no other legal ground "
+"for processing."
+msgstr ""
+"Droit à l'effacement (art. 17 du RGPD) : vous avez le droit, dans "
+"certaines circonstances, de demander l'effacement de données à caractère "
+"personnel dans les meilleurs délais, notamment si vos données à caractère"
+" personnel ne sont plus nécessaires au regard des finalités pour "
+"lesquelles elles ont été collectées ou si vous retirez le consentement "
+"sur lequel est fondé le traitement, conformément à l'article 6(1)(a) du "
+"RGPD, et qu'il n'existe pas d'autre fondement juridique au traitement."
+
+#: ../../privacy-policy.rst:51
+msgid ""
+"Right to restriction of processing (Art. 18 GDPR): You have the right to "
+"request us to restrict the processing of your Personal Data under certain"
+" circumstances, e.g. if you think that the Personal Data we process about"
+" you is incorrect or unlawful."
+msgstr ""
+"Droit à la limitation du traitement (art. 18 du RGPD) : vous avez le "
+"droit, dans certaines circonstances, de nous demander de restreindre le "
+"traitement de vos données à caractère personnel, notamment si vous pensez"
+" que les données à caractère personnel vous concernant sont inexactes ou "
+"que le traitement que nous en faisons est illicite."
+
+#: ../../privacy-policy.rst:53
+msgid ""
+"Right to data portability (Art. 20 GDPR): Under certain circumstances, "
+"you have the right to receive your Personal Data you have provided us "
+"with, in a structured, commonly used and machine-readable format and you "
+"have the right to transmit that information to another controller without"
+" hindrance or ask us to do so."
+msgstr ""
+"Droit à la portabilité des données (art. 20 du RGPD) : Vous avez le "
+"droit, dans certaines circonstances, de recevoir les données à caractère "
+"personnel que vous nous avez fournies, dans un format structuré, "
+"couramment utilisé et lisible par machine, et vous avez le droit de "
+"transmettre ces données à un autre responsable du traitement sans que "
+"l'on y fasse obstacle, ou de nous demander de le faire."
+
+#: ../../privacy-policy.rst:55
+msgid ""
+"Right to object (Art. 21 GDPR): You have the right to object to the "
+"processing of your Personal Data under certain circumstances. In "
+"particular if we process your Personal Data on the basis on legitimate "
+"interest (Art. 6 (1)(b) GDPR) or if we use your personal data for "
+"marketing purposes."
+msgstr ""
+"Droit d'opposition (art. 21 du RGPD) : vous avez le droit de vous opposer"
+" au traitement de vos données à caractère personnel dans certaines "
+"circonstances, en particulier si nous traitons vos données à caractère "
+"personnel sur la base d'un intérêt légitime (art. 6(1)(b) du RGPD) ou si "
+"nous les utilisons à des fins de prospection."
+
+#: ../../privacy-policy.rst:57
+msgid ""
+"You may assert those rights at any time by emailing us to correct or "
+"change any information or request which Personal Data (e.g. name, "
+"address) we have stored or to assert any other of your rights as "
+"mentioned above by emailing us at support@iatistandard.org."
+msgstr ""
+"Vous pouvez faire valoir ces droits à tout moment en nous envoyant un "
+"courriel à l'adresse support@iatistandard.org afin de rectifier ou de "
+"modifier toute information, de nous demander quelles données à caractère "
+"personnel (nom et adresse, par exemple) nous avons conservées, ou de "
+"faire valoir tout autre de vos droits mentionnés ci-dessus."
+
+#: ../../privacy-policy.rst:60
+msgid "6. How we Protect Your Personal Information"
+msgstr "6. Protection de vos informations personnelles"
+
+#: ../../privacy-policy.rst:62
+msgid ""
+"The security of your Personal Data is very important to us. We have "
+"implemented state of the art administrative, technical, and physical "
+"security measures to protect against the unauthorised access, destruction"
+" or alteration of your information. This includes encrypting our Services"
+" using Secure Sockets Layer (SSL) and restricting access to Personal Data"
+" to all employees, contractors and agents working on behalf of the IATI "
+"secretariat who need to know that information in order to process it for "
+"us, and who are subject to strict contractual confidentiality "
+"obligations."
+msgstr ""
+"Nous accordons une grande importance à la sécurité de vos données à "
+"caractère personnel. Nous avons mis en œuvre les mesures administratives,"
+" techniques et de sécurité physique les plus modernes afin de protéger "
+"vos informations contre les risques d'accès non autorisé, de destruction "
+"ou d'altération. Pour ce faire, nos services sont cryptés à l'aide du "
+"protocole SSL (Secure Socket Layer), et l'accès aux données à caractère "
+"personnel est limité à l'ensemble des employés, sous-traitants et agents "
+"travaillant pour le Secrétariat de l'IITA qui doivent avoir connaissance "
+"de ces informations afin d'assurer leur traitement pour le compte de "
+"l'Initiative, et qui sont soumis à des obligations contractuelles de "
+"confidentialité très strictes."
+
+#: ../../privacy-policy.rst:65
+msgid "7. Data Retention"
+msgstr "7. Conservation des données"
+
+#: ../../privacy-policy.rst:67
+msgid ""
+"We delete or anonymise your Personal Data as soon as it is no longer "
+"required for the purposes we have collected your Personal Data as "
+"outlined in this Privacy Policy."
+msgstr ""
+"Nous supprimons ou anonymisons vos données à caractère personnel dès lors"
+" que celles-ci ne sont plus nécessaires aux fins pour lesquelles nous les"
+" avions recueillies, fins énoncées dans la présente politique de "
+"confidentialité."
+
+#: ../../privacy-policy.rst:70
+msgid "8. Contact Information"
+msgstr "8. Nos coordonnées"
+
+#: ../../privacy-policy.rst:72
+msgid ""
+"If you wish to contact us or have any questions about or complaints in "
+"relation to this Privacy Policy, please contact us at the address below. "
+"Open Data Services manages the storage and processing of personal "
+"information on behalf of UNDP, as part of hosting the IATI Secretariat."
+msgstr ""
+"Si vous souhaitez nous contacter ou que vous avez des questions ou des "
+"réclamations concernant la présente politique de confidentialité, merci "
+"de nous écrire à l'adresse ci-dessous. Open Data Services gère le "
+"stockage et le traitement des informations à caractère personnel pour le "
+"compte du PNUD, dans le cadre de l'hébergement du Secrétariat de l'IITA."
+
+#: ../../privacy-policy.rst:74
+msgid "Open Data Services Co-operative Ltd"
+msgstr "Open Data Services Co-operative Ltd"
+
+#: ../../privacy-policy.rst:76
+msgid "Email: contact@opendataservices.coop"
+msgstr "Courriel : contact@opendataservices.coop"
+

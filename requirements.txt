@@ -12,11 +12,11 @@ babel==2.17.0
     # via
     #   sphinx
     #   sphinx-intl
-certifi==2025.1.31
+certifi==2025.4.26
     # via requests
-charset-normalizer==3.4.1
+charset-normalizer==3.4.2
     # via requests
-click==8.1.8
+click==8.2.1
     # via sphinx-intl
 docutils==0.21.2
     # via
@@ -25,7 +25,7 @@ docutils==0.21.2
     #   sphinx-togglebutton
     #   sphinxcontrib-opendataservices
     #   sphinxcontrib-opendataservices-jsonschema
-iati-sphinx-theme==1.11.0
+iati-sphinx-theme==3.0.0
     # via -r requirements.in
 idna==3.10
     # via requests
@@ -37,7 +37,7 @@ jinja2==3.1.6
     #   sphinx
 jscc==0.3.0
     # via sphinxcontrib-opendataservices-jsonschema
-json-merge-patch==0.2
+json-merge-patch==0.3.0
     # via jscc
 jsonpointer==3.0.0
     # via
@@ -61,7 +61,7 @@ myst-parser==4.0.1
     # via
     #   sphinxcontrib-opendataservices
     #   sphinxcontrib-opendataservices-jsonschema
-packaging==24.2
+packaging==25.0
     # via sphinx
 pygments==2.19.1
     # via sphinx
@@ -75,9 +75,9 @@ requests==2.32.3
     #   sphinx
 roman-numerals-py==3.1.0
     # via sphinx
-rpds-py==0.23.1
+rpds-py==0.25.1
     # via referencing
-snowballstemmer==2.2.0
+snowballstemmer==3.0.1
     # via sphinx
 sphinx==8.2.3
     # via
@@ -98,7 +98,7 @@ sphinxcontrib-htmlhelp==2.1.0
     # via sphinx
 sphinxcontrib-jsmath==1.0.1
     # via sphinx
-sphinxcontrib-opendataservices==0.5.0
+sphinxcontrib-opendataservices==0.6.0
     # via -r requirements.in
 sphinxcontrib-opendataservices-jsonschema==0.7.1
     # via sphinxcontrib-opendataservices
@@ -106,7 +106,7 @@ sphinxcontrib-qthelp==2.0.0
     # via sphinx
 sphinxcontrib-serializinghtml==2.0.0
     # via sphinx
-urllib3==2.3.0
+urllib3==2.4.0
     # via requests
 wheel==0.45.1
     # via sphinx-togglebutton

@@ -12,7 +12,7 @@ Terms of use and policies for IATI websites and tools.
     :caption: Contents
 
     Home <self>
-    Privacy <privacy>
+    Privacy Policy <privacy-policy>
     Cookie Policy <cookie-policy>
 
 
