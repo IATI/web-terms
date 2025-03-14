@@ -6,17 +6,17 @@
 #
 alabaster==1.0.0
     # via sphinx
-attrs==24.2.0
+attrs==25.3.0
     # via referencing
-babel==2.16.0
+babel==2.17.0
     # via
     #   sphinx
     #   sphinx-intl
-certifi==2024.8.30
+certifi==2025.1.31
     # via requests
-charset-normalizer==3.4.0
+charset-normalizer==3.4.1
     # via requests
-click==8.1.7
+click==8.1.8
     # via sphinx-intl
 docutils==0.21.2
     # via
@@ -25,13 +25,13 @@ docutils==0.21.2
     #   sphinx-togglebutton
     #   sphinxcontrib-opendataservices
     #   sphinxcontrib-opendataservices-jsonschema
-iati-sphinx-theme==1.6.1
+iati-sphinx-theme==1.11.0
     # via -r requirements.in
 idna==3.10
     # via requests
 imagesize==1.4.1
     # via sphinx
-jinja2==3.1.4
+jinja2==3.1.6
     # via
     #   myst-parser
     #   sphinx
@@ -57,27 +57,29 @@ mdit-py-plugins==0.4.2
     # via myst-parser
 mdurl==0.1.2
     # via markdown-it-py
-myst-parser==4.0.0
+myst-parser==4.0.1
     # via
     #   sphinxcontrib-opendataservices
     #   sphinxcontrib-opendataservices-jsonschema
 packaging==24.2
     # via sphinx
-pygments==2.18.0
+pygments==2.19.1
     # via sphinx
 pyyaml==6.0.2
     # via myst-parser
-referencing==0.35.1
+referencing==0.36.2
     # via sphinxcontrib-opendataservices-jsonschema
 requests==2.32.3
     # via
     #   jscc
     #   sphinx
-rpds-py==0.21.0
+roman-numerals-py==3.1.0
+    # via sphinx
+rpds-py==0.23.1
     # via referencing
 snowballstemmer==2.2.0
     # via sphinx
-sphinx==8.1.3
+sphinx==8.2.3
     # via
     #   -r requirements.in
     #   myst-parser
@@ -104,7 +106,7 @@ sphinxcontrib-qthelp==2.0.0
     # via sphinx
 sphinxcontrib-serializinghtml==2.0.0
     # via sphinx
-urllib3==2.2.3
+urllib3==2.3.0
     # via requests
 wheel==0.45.1
     # via sphinx-togglebutton
