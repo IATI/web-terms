@@ -1,14 +1,18 @@
-******************
-IATI Documentation
-******************
+**************
+IATI Web Terms
+**************
 
-This file is where your documentation goes. 
+Terms of use and policies for IATI websites and tools. 
+
 
 .. toctree::
     :hidden:
     :titlesonly:
     :maxdepth: 3
-    :caption: Documentation
+    :caption: Contents
 
     Home <self>
+    Privacy Policy <privacy-policy>
+    Cookie Policy <cookie-policy>
+
 

@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 United Nations Development Programme, on behalf of the
+# IATI Secretariat
+# This file is distributed under the same license as the IATI Web Terms
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Web Terms 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-06 09:14+0100\n"
+"PO-Revision-Date: 2025-03-14 10:00+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: French <fr@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../cookie-policy.rst:3
+msgid "Cookie Policy"
+msgstr "Politique en matière de cookies"
+
+#: ../../cookie-policy.rst:5
+msgid ""
+"All IATI websites (:literal:`*.iatistandard.org`; "
+":literal:`*.aidinfolabs.org`; :literal:`*.iatiregistry.org`; "
+":literal:`*.iaticonnect.org`; :literal:`https://iati.zendesk.com`) use "
+"the following category of cookies:"
+msgstr ""
+"Tous les sites Internet de l'IITA (:literal:`*.iatistandard.org` ; "
+":literal:`*.aidinfolabs.org` ; :literal:`*.iatiregistry.org` ; :literal:`*.iaticonnect.org` ; "
+":literal:`https://iati.zendesk.com`) utilisent les catégories de cookies suivantes :"
+
+#: ../../cookie-policy.rst:7
+msgid ""
+"**Analysis**: We use cookies to analyse the use and performance of our "
+"websites and services so that we can provide you with the best "
+"experience. These cookies are collected through use of Google Analytics."
+msgstr ""
+"Analyse : nous utilisons des cookies afin d'analyser l'utilisation et les"
+" performances de nos sites Internet et de nos services de manière à "
+"pouvoir vous garantir la meilleure expérience possible. Ces cookies sont "
+"recueillis à l'aide de Google Analytics."
+
+#: ../../cookie-policy.rst:9
+msgid ""
+"This has been configured in a way that anonymises your IP address, along "
+"with any other personal, or identifiable data obtained through the use of"
+" Google Analytics. By tracking users in this way, it is therefore not "
+"possible to identify a single person through their use of this website."
+msgstr ""
+"La collecte de ces données a été configurée de façon à anonymiser votre "
+"adresse IP, ainsi que toute autre donnée identifiable ou à caractère "
+"personnel obtenue par Google Analytics. Suivre ainsi les utilisateurs ne "
+"permet donc pas d'identifier une personne par son utilisation du présent "
+"site Internet."
+
+#: ../../cookie-policy.rst:11
+msgid ""
+"**Essential**: We use cookies to perform essential functions of our "
+"websites, such as to keep users logged in, and for security through CSRF "
+"prevention. These are not used to collect any personal data."
+msgstr ""
+"**Essentiels** : nous utilisons des cookies pour exécuter les fonctions "
+"essentielles de nos sites Internet, notamment pour maintenir les "
+"utilisateurs connectés et pour assurer la sécurité par la prévention "
+"CSRF. Ces cookies ne sont pas utilisés pour collecter des données à "
+"caractère personnel."
+
+#: ../../cookie-policy.rst:14
+msgid "Contact"
+msgstr "Contact"
+
+#: ../../cookie-policy.rst:16
+msgid ""
+"If you wish to contact us or have any questions about or complaints in "
+"relation to this Cookie Policy, please contact us at the following "
+"address:"
+msgstr ""
+"Si vous souhaitez nous contacter ou que vous avez des questions ou des "
+"réclamations concernant la présente politique en matière de cookies, "
+"merci de nous écrire à l'adresse suivante :"
+
+#: ../../cookie-policy.rst:18
+msgid "Open Data Services Co-operative Ltd"
+msgstr "Open Data Services Co-operative Ltd"
+
+#: ../../cookie-policy.rst:20
+msgid "Email: contact@opendataservices.coop"
+msgstr "Courriel : contact@opendataservices.coop"
+
