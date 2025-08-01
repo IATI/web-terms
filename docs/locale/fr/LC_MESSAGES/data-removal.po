@@ -1,0 +1,121 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C)
+# This file is distributed under the same license as the IATI Web Terms package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: IATI Web Terms \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-01 15:29+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../data-removal.rst:3
+msgid "Data Removal"
+msgstr "Retrait des données"
+
+#: ../../data-removal.rst:5
+msgid "This guidance sets out the process to be followed by data owners in instances where they choose to remove data published to the IATI Standard."
+msgstr "Ces lignes directrices présentent la procédure à suivre dans le cas où un propriétaire de données souhaite retirer des données publiées conformément à la norme de l’IITA."
+
+#: ../../data-removal.rst:8
+msgid "Data removal process"
+msgstr "Procédure de retrait des données"
+
+#: ../../data-removal.rst:10
+msgid "IATI is an open data standard, therefore publishing data to IATI is a commitment to having this data openly shared. Public data must be shared under a user-selected Open Data licence. However, IATI is aware that due to security concerns or privacy issues the data owner may choose to remove their data, either temporarily or permanently. The IATI publisher then has two options to proceed with removing their data:"
+msgstr "La norme de l’IITA repose sur le principe de données ouvertes, ce qui signifie que la publication de données conformes sous-entend un engagement à rendre ces dernières pleinement accessibles. Les données publiques doivent être communiquées dans le cadre d’une licence libre choisie par l’utilisateur. Toutefois, l’IITA tient compte du fait que, pour des raisons de sécurité ou de confidentialité, tout propriétaire de données peut décider de les retirer, à titre temporaire ou définitif. Deux options s’offrent alors au signataire de l’IITA qui souhaite retirer ses données :"
+
+#: ../../data-removal.rst:12
+msgid "*Make the dataset ‘Private’*"
+msgstr "Rendre l’ensemble de données « privé »"
+
+#: ../../data-removal.rst:14
+msgid "IATI publishers have the option to share datasets ‘privately’ through the `IATI Registry <https://iatiregistry.org/>`_. Private datasets will only be accessible to members of the publishing organisation with the required permission. Private data sets are held securely on the IATI Registry and are never shared by IATI."
+msgstr "Le signataire peut publier son ensemble de données « à titre privé » depuis le `registre de l’IITA <https://iatiregistry.org/>`_. Les ensembles de données privés ne sont alors accessibles que par les membres de l’organisation signataire disposant des autorisations requises. Ils sont conservés en toute sécurité sur le registre de l’IITA et ne sont jamais publiés par cette dernière."
+
+#: ../../data-removal.rst:16
+msgid "*Delete the dataset*"
+msgstr "Supprimer les ensembles de données"
+
+#: ../../data-removal.rst:18
+msgid "IATI publishers also have the option to delete their dataset through the `IATI Registry <https://www.iatiregistry.org/>`_. The dataset will be deleted immediately from public view."
+msgstr "Le signataire peut également supprimer son ensemble de données depuis le `registre de l’IITA <https://www.iatiregistry.org/>`_. L’ensemble de données est immédiatement supprimé et n’est plus accessible au public."
+
+#: ../../data-removal.rst:20
+msgid "In order to make a file ‘private’ or ‘delete’ it, the data owner needs to login to their `IATI Registry <https://www.iatiregistry.org/>`_ publisher account, select ‘manage’ and then go to the ‘Datasets’ tab. Here, the data owner can find options to make their datasets public, make them private, or delete them."
+msgstr "S’il souhaite rendre un fichier privé ou le supprimer, le propriétaire des données doit se connecter à son compte de signataire sur le `registre de l’IITA <https://www.iatiregistry.org/>`_, cliquer sur le bouton « Manage » (Gérer) puis sur l’onglet « Datasets » (Ensembles de données). Sur cette page, il peut choisir entre différentes options : rendre ses ensembles de données publics, les rendre privés ou les supprimer."
+
+#: ../../data-removal.rst:22
+msgid "If the data owner encounters any issues in the process of making their file private or deleting it, they should `contact the IATI Secretariat </en/guidance/get-support/>`_ for support."
+msgstr "En cas de problème rencontré au cours de la procédure de retrait des fichiers, il est conseillé de `contacter le Secrétariat de l’IITA </en/guidance/get-support/>`_."
+
+#: ../../data-removal.rst:25
+msgid "What happens when IATI data is removed?"
+msgstr "Que se passe-t-il lors du retrait de données ?"
+
+#: ../../data-removal.rst:27
+msgid "The `IATI Registry <https://iatiregistry.org/>`_ does not store any IATI data, but it does provide links to places where the data can be downloaded. Links to these places can be found under the ‘Datasets’ section of individual IATI Registry publisher profiles. Other applications also use and store data published to the IATI Standard. These are known as ‘consuming applications’ and each should have its own data removal guidance. Not all of these applications are designed and managed by the IATI Secretariat."
+msgstr "Le `registre de l’IITA <https://iatiregistry.org/>`_ ne stocke aucune des données conformes à la norme de l’IITA, mais il fournit des liens vers des sites permettant de les télécharger. Ces liens sont disponibles dans la section « Datasets » (Ensembles de données) du profil individuel du signataire sur le registre de l’IITA. D’autres applications stockent et utilisent également des données conformes à la norme de l’IITA. Chacune de ces « applications utilisatrices » doit fournir ses propres lignes directrices relatives au retrait de données. Toutes ne sont pas conçues et gérées par le Secrétariat de l’IITA."
+
+#: ../../data-removal.rst:29
+msgid "**1) Consuming applications managed by IATI Secretariat:** If a data owner decides to remove their data from the IATI Registry, the IATI-managed tools will refresh in the following specified time frames, and the data is removed from these applications accordingly:"
+msgstr "**1) Applications utilisatrices gérées par le Secrétariat de l’IITA :** Lorsqu’un propriétaire de données opte pour leur retrait du registre, les outils gérés par l’IITA sont actualisés dans les délais indiqués ci-après, tandis que les données sont retirées de ces applications en conséquence :"
+
+#: ../../data-removal.rst:31
+msgid "`IATI Datastore <https://iatidatastore.iatistandard.org/>`_ - refreshes every 24 hours"
+msgstr "`Banque de données de l’IITA <https://iatidatastore.iatistandard.org/>`_ – actualisation toutes les 24 heures ;"
+
+#: ../../data-removal.rst:32
+msgid "`IATI Validator <https://iativalidator.iatistandard.org/>`_ - refreshes every 2 hours"
+msgstr "`Outil de validation de l’IITA <https://iativalidator.iatistandard.org/>`_ – actualisation toutes les deux heures ;"
+
+#: ../../data-removal.rst:33
+msgid "`IATI Dashboard <http://dashboard.iatistandard.org/>`_ and `IATI Publishing Statistics <http://publishingstats.iatistandard.org/>`_ - refreshes every 24 hours"
+msgstr "`Tableau de bord de l’IITA <http://dashboard.iatistandard.org/>`_ et `statistiques de publication de l’IITA <http://publishingstats.iatistandard.org/>`_ – actualisation toutes les 24 heures ;"
+
+#: ../../data-removal.rst:34
+msgid "`D-portal <http://d-portal.org/ctrack.html#view=search>`_ - refreshes every 24 hours"
+msgstr "`d-portal <http://d-portal.org/ctrack.html#view=search>`_ – actualisation toutes les 24 heures."
+
+#: ../../data-removal.rst:36
+msgid "**Important note:** Once data has been removed (made private or deleted) from the IATI Registry, the data will be removed from the above consuming applications at the time they are refreshed. If however the data is inaccessible at the time the application is refreshed (because of either a server error or a Registry error), but the data set is still marked as public on the IATI Registry, then the above consuming applications will continue to display the last available version of the data. Data owners are therefore advised to reconfirm that the data is no longer available on the Registry after 24-36 hours has passed, and contact the IATI Secretariat if further assistance is required."
+msgstr "**Important :** une fois les données retirées (rendues privées ou supprimées) du registre de l’IITA, elles sont également retirées des applications utilisatrices mentionnées précédemment au moment de l’actualisation de ces dernières. Toutefois, si les données sont inaccessibles pendant l’actualisation (en raison d’une erreur du serveur ou du registre), alors que l’ensemble de données est encore considéré comme « public » sur le registre de l’IITA, la dernière version de ces données sera toujours disponible sur les applications utilisatrices en question. Il est donc recommandé de vérifier que les données ne sont plus disponibles sur le registre après une période de 24 à 36 heures. Pour toute assistance supplémentaire, il est conseillé de contacter le Secrétariat de l’IITA."
+
+#: ../../data-removal.rst:38
+msgid "**2) External consuming applications not managed by IATI**: As an open data standard, IATI data is available for use by anyone wishing to build a consuming application that uses IATI data. If a data owner decides to remove their data from the IATI Registry, the data owner should contact the external tool provider to check their data removal policy and refresh times."
+msgstr "**2) Applications utilisatrices externes, non gérées par l’IITA :** La norme de l’IITA reposant sur le principe de données ouvertes, les données conformes sont mises à la disposition de quiconque souhaite développer une application utilisatrice exploitant ces mêmes données. Si un propriétaire de données décide de les retirer du registre de l’IITA, il devrait contacter le prestataire de l’outil externe pour connaître sa politique de retrait des données et ses délais d’actualisation."
+
+#: ../../data-removal.rst:41
+msgid "Data removal requests"
+msgstr "Demandes de retrait des données"
+
+#: ../../data-removal.rst:43
+msgid "If a user becomes aware of data shared through the IATI Registry that they feel should not be shared openly, the user should contact the publishing organisation directly to request that the data be removed. The person making the request should refer to the contact information provided in the profile of the publisher in the Registry, and should:"
+msgstr "Si un utilisateur prend connaissance de données publiées sur le registre de l’IITA et estime qu’elles ne devraient pas être accessibles au public, il est recommandé de contacter directement l’organisation signataire pour en demander le retrait. Il est conseillé à la personne formulant cette demande de se référer aux coordonnées renseignées sur le profil du signataire dans le registre et :"
+
+#: ../../data-removal.rst:45
+msgid "Confirm their role and relationship to the data;"
+msgstr "de préciser sa fonction et son lien avec les données ;"
+
+#: ../../data-removal.rst:46
+msgid "Clarify which specific data item(s) they are requesting be removed;"
+msgstr "d’indiquer pour quel(s) élément(s) des données la demande de retrait est formulée ;"
+
+#: ../../data-removal.rst:47
+msgid "Establish the reason for the request."
+msgstr "de motiver la raison de cette demande."
+
+#: ../../data-removal.rst:49
+msgid "If you receive no response from an IATI publisher or have a question on this Data Removal Guidance, please `contact us for support </en/guidance/get-support/>`_."
+msgstr "En l’absence de réponse du signataire, ou en cas de question concernant les lignes directrices relatives au retrait des données, veuillez `nous contactez </en/guidance/get-support/>`_."
+
+#: ../../data-removal.rst:51
+msgid "IATI reserves the right to update or amend this guidance at any time and without prior notice."
+msgstr "L’IITA se réserve le droit de mettre à jour ou de modifier ces lignes directrices à tout moment et sans notification préalable."
