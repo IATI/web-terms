@@ -4,7 +4,7 @@ Privacy Policy
 
 This Privacy Policy sets out how we, the International Aid Transparency Initiative (IATI), obtain, store and use your personal information when you use or interact with :doc:`our websites <websites>`, or where we otherwise obtain or collect your personal information.
 
-This Privacy Policy is effective from 1st July 2025
+This Privacy Policy is effective from 1st August 2025
 
 We reserve the right to modify this policy at any time, so please check it frequently. For notification of updates, you can "watch" https://github.com/IATI/web-terms on GitHub. 
 
@@ -113,7 +113,7 @@ Right to restriction of processing (Art. 18 GDPR): You have the right to request
 
 Right to data portability (Art. 20 GDPR): Under certain circumstances, you have the right to receive your Personal Data you have provided us with, in a structured, commonly used and machine-readable format and you have the right to transmit that information to another controller without hindrance or ask us to do so.
 
-Right to object (Art. 21 GDPR): You have the right to object to the processing of your Personal Data under certain circumstances. In particular if we process your Personal Data on the basis on legitimate interest (Art. 6 (1)(b) GDPR) or if we use your personal data for marketing purposes.
+Right to object (Art. 21 GDPR): You have the right to object to the processing of your Personal Data under certain circumstances. In particular if we process your Personal Data on the basis on legitimate interest (Art. 6 (1)(f) GDPR) or if we use your personal data for marketing purposes.
 
 Right to lodge a complaint (Art. 77 GDPR): You have the right to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, place of work or place of the alleged infringement. In the UK, the relevant supervisory authority is the Information Commissioner's Office (ICO). You can contact them at https://ico.org.uk/concerns/ .
 
