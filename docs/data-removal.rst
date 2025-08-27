@@ -81,7 +81,7 @@ Publishers can make a take down request if:
 - they are unable to follow the Data Removal Process, or
 - the data removal is urgent
 
-The request can be made by `contacting the IATI Secretariat </en/guidance/get-support/>`_.
+The request can be made by `contacting the IATI Secretariat <https://iatistandard.org/en/guidance/get-support/>`_.
 
 The person making the request should state:
 
@@ -115,4 +115,4 @@ We understand that any request to remove data will be seen as urgent by the pers
 Contacting IATI Support
 -----------------------
 
-If you encounter any issues removing your data, please `contact the IATI Secretariat </en/guidance/get-support/>`_ for support.
+If you encounter any issues removing your data, please `contact the IATI Secretariat <https://iatistandard.org/en/guidance/get-support/>`_ for support.
