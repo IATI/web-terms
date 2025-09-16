@@ -79,7 +79,7 @@ The following organisations process personal data for the IATI Secretariat. Appr
 
 InnoCraft Limited, a New Zealand registered company (NZBN 6106769). See their `privacy policy <https://matomo.org/matomo-cloud-privacy-policy/>`_ and the `data processing agreement <https://matomo.org/matomo-cloud-dpa/>`_ . InnoCraft operate matomo.cloud, which we use for website analytics. 
 
-Plausible Insights OÜ; Västriku tn 2, 50403, Tartu, Estonia. Registration number 14709274. See their `privacy policy <https://plausible.io/privacy>`_. and the `data processing agreement <https://plausible.io/dpa>`_ . Plausible Insights operate plausible.io, which we use for website analytics/. 
+Plausible Insights OÜ; Västriku tn 2, 50403, Tartu, Estonia. Registration number 14709274. See their `privacy policy <https://plausible.io/privacy>`_. and the `data processing agreement <https://plausible.io/dpa>`_ . Plausible Insights operate plausible.io, which we use for website analytics. 
 
 Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland. See their `privacy policy <https://policies.google.com/privacy>`_. Google operate Google Workspace, which we use within the Secretariat for day-to-day operations. 
 
@@ -96,6 +96,8 @@ Zendesk International Ltd, 55 Charlemont Place, Saint Kevin's, Dublin, D02 F985,
 SuiteCRM Ltd,  73 Stirling Business Centre, Wellgreen Place, Stirling, FK8 2DZ, Scotland. See their `privacy policy <https://suitecrm.com/privacy-policy/>`_. SuiteCRM provide CRM software that we use to deliver our services. 
 
 WSO2 (UK) Limited, Appledram barns, Birdham Road, Chichester, West Sussex, UK, PO20 7EQ. See their `privacy policy <https://wso2.com/asgardeo/privacy-policy/>`_. WSO2 provide identity management software that we use to deliver our services.  
+
+Hertza L.L.C., doing business as ZeroBounce, a Nevada limited liability company with its principal place of business at 10 E. Yanonali St., Santa Barbara, California 93101. See their `privacy policy <https://www.zerobounce.net/privacy-policy/>`_ and `statement of data retention <https://www.zerobounce.net/docs/frequently-asked-questions/data-security-and-privacy/are-my-emails-stored-after-verification/>`_. ZeroBounce provide email address verification that we use to deliver our services and maintain our records.
 
 
 7. Your Rights
