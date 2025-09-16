@@ -97,7 +97,7 @@ SuiteCRM Ltd,  73 Stirling Business Centre, Wellgreen Place, Stirling, FK8 2DZ, 
 
 WSO2 (UK) Limited, Appledram barns, Birdham Road, Chichester, West Sussex, UK, PO20 7EQ. See their `privacy policy <https://wso2.com/asgardeo/privacy-policy/>`_. WSO2 provide identity management software that we use to deliver our services.  
 
-Hertza L.L.C., doing business as ZeroBounce, a Nevada limited liability company with its principal place of business at 10 E. Yanonali St., Santa Barbara, California 93101. See their `privacy policy <https://www.zerobounce.net/privacy-policy/>`_ and `statement of data retention <https://www.zerobounce.net/docs/frequently-asked-questions/data-security-and-privacy/are-my-emails-stored-after-verification/>`_. ZeroBounce provide email address verification that we use to deliver our services and maintain our records.
+Hertza L.L.C., doing business as ZeroBounce, a Nevada limited liability company with its principal place of business at 10 E. Yanonali St., Santa Barbara, California 93101. See their `privacy policy <https://www.zerobounce.net/privacy-policy/>`_ and `statement of data retention <https://www.zerobounce.net/docs/frequently-asked-questions/data-security-and-privacy/are-my-emails-stored-after-verification/>`_. The text of the `data processing agreement <https://www.zerobounce.net/docs/assets/zb_data_processing_agreement-18-08-25_UK.pdf>` is also available. ZeroBounce provide email address verification that we use to deliver our services and maintain our records.
 
 
 7. Your Rights
