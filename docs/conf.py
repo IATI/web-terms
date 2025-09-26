@@ -4,6 +4,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 
 import os
+import subprocess
+from datetime import datetime
 
 import sphinx.application
 from sphinx.locale import get_translation
@@ -16,9 +18,28 @@ _ = get_translation(MESSAGE_CATALOG_NAME)
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+def get_privacy_policy_last_commit_date():
+    """Get the date of the last commit that affected privacy-policy.rst, websites.rst, or cookie-policy.rst"""
+    try:
+        result = subprocess.run(
+            ["git", "log", "-1", "--format=%cd", "--date=format:%d %B %Y",
+             "--", "docs/privacy-policy.rst", "docs/websites.rst", "docs/cookie-policy.rst"],
+            capture_output=True,
+            text=True,
+            cwd=os.path.dirname(os.path.dirname(__file__))
+        )
+        return result.stdout.strip()
+    except Exception:
+        return datetime.now().strftime("%d %B %Y")
+
 project = "IATI Web Terms"
 author = "IATI Secretariat"
 language = "en"
+
+# Global variables available in RST files
+rst_prolog = f"""
+.. |privacy_policy_effective_date| replace:: {get_privacy_policy_last_commit_date()}
+"""
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

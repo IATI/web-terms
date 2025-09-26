@@ -4,7 +4,7 @@ Privacy Policy
 
 This Privacy Policy sets out how we, the International Aid Transparency Initiative (IATI), obtain, store and use your personal information when you use or interact with :doc:`our websites <websites>`, or where we otherwise obtain or collect your personal information.
 
-This Privacy Policy is effective from 1st August 2025
+This Privacy Policy is effective from |privacy_policy_effective_date|
 
 We reserve the right to modify this policy at any time, so please check it frequently. For notification of updates, you can "watch" https://github.com/IATI/web-terms on GitHub. 
 
