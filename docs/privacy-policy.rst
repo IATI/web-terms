@@ -28,6 +28,7 @@ Our use of Matomo and Plausible analytics involves collecting the following data
 
 Anonymized IP Address: We anonymize your IP address immediately upon collection, so you cannot be personally identified.
 Pages Visited: The URLs of the pages you view on our site.
+Form Inputs: The terms you enter into search boxes, filters, and select from drop-downs. 
 Timestamps: The date and time of your visit.
 User Agent Information: Your browser type, operating system, and screen resolution. This helps us ensure our site works well on different devices.
 Approximate Location: We determine your country and approximate region from the anonymized IP address.
@@ -36,7 +37,9 @@ Referring Website: The site that linked you to ours, if applicable
 Server Logs
 ^^^^^^^^^^^
 
-When you use our websites, we collect and analyse the following information about your computer or mobile device: your browser type and capabilities, IP address, browser language, operating system, and other similar information. 
+When you use our websites or otherwise interact with our systems, we collect and analyse the following information about your computer or mobile device: your browser type and capabilities, IP address, browser language, operating system, and other similar information. 
+
+We process server logs on the basis of our legitimate interest in delivering our services, understanding usage patterns for our services, detecting security issues, and ensuring compliance with regulations. 
 
 
 User Accounts
@@ -54,7 +57,7 @@ Please see :doc:`our cookie policy <cookie-policy>`.
 3. How we Protect Your Personal Information
 -------------------------------------------
 
-We have implemented appropriate administrative, technical, organisational and physical security measures to protect against the unauthorised access, destruction or alteration of your information. This includes encrypting our Services using Secure Sockets Layer (SSL) and restricting access to Personal Data to all employees, contractors and agents working on behalf of the IATI Secretariat who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations.
+We have implemented appropriate administrative, technical, organisational and physical security measures to protect against the unauthorised access, destruction or alteration of your information. This includes encrypting our Services using Secure Sockets Layer (SSL) and restricting access to Personal Data to only employees, contractors and agents working on behalf of the IATI Secretariat who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations.
 
 4. Data Retention
 -----------------
