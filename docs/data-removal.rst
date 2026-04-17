@@ -4,6 +4,9 @@ Data Removal
 
 This guidance describes how IATI Reporting Organisations should remove data published to the IATI Standard and how anyone can make a Take Down Request to the IATI Secretariat.
 
+.. warning:: 
+    As a general rule, IATI data should remain published once released. When an activity finishes, `update its status to “closed” <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/activity-status>`_ but keep the data publicly available as a historical record. If data is incorrect, it can be updated at any time. Only unpublish in exceptional cases, such as if the data becomes sensitive. `Read more about excluding data from publication <https://iatistandard.org/en/guidance/publishing-data/what-data-to-publish/information-and-data-you-cant-publish-exclusions/>`_.
+
 Data Removal Process
 ====================
 
