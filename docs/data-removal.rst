@@ -4,12 +4,15 @@ Data Removal
 
 This guidance describes how IATI Reporting Organisations should remove data published to the IATI Standard and how anyone can make a Take Down Request to the IATI Secretariat.
 
+.. warning:: 
+    As a general rule, IATI data should remain published once released. When an activity finishes, `update its status to “closed” <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/activity-status>`_ but keep the data publicly available as a historical record. Only unpublish in exceptional cases, such as if the data becomes sensitive. `Read more about excluding data from publication <https://iatistandard.org/en/guidance/publishing-data/what-data-to-publish/information-and-data-you-cant-publish-exclusions/>`_.
+
 Data Removal Process
 ====================
 
-Data should be removed by unpublishing it from your IATI publication. If you remove a complete dataset the `IATI Registry <https://iatiregistry.org/>`_ must be updated.
+Data should be removed by unpublishing it from your IATI publication. If you remove a complete dataset, `IATI Account <https://account.iatistandard.org/>`_ must be updated.
 
-The IATI Registry does not store any IATI data, but it does provide links to places where the data can be downloaded.
+IATI Account does not store any IATI data, but it does provide links to places where the data can be downloaded.
 
 Removing activities from your IATI publication
 ----------------------------------------------
@@ -20,12 +23,12 @@ How you do this will depend on your publishing method. There are instructions fo
 
 If you use one of the `other IATI publishing tools <https://iatistandard.org/en/guidance/publishing-data/how-to-publish-data/publishing-tools-and-services-to-create-your-iati-data-files/>`_, contact their support for help with removing individual activities.
 
-Updating the IATI Registry
---------------------------
+Updating IATI Account
+----------------------
 
-If you have removed a complete dataset or datasets you should also make sure the IATI Registry is updated. Some publishing tools, such as AidStream and IATI Publisher will automatically do this for you.
+If you have removed a complete dataset or datasets you should also make sure IATI Account is updated. Some publishing tools, such as AidStream and IATI Publisher will automatically do this for you.
 
-Login to an administrator account for your organisation, select 'Manage' and then go to the 'Datasets' tab. If present, select the dataset you have removed.
+You can `manage your organisation's IATI data files <https://docs.account.iatistandard.org/en/latest/manage_data_files/>`_ from the "My Data" page, while signed in to IATI Account.
 
 You have two options:
 
@@ -50,22 +53,22 @@ IATI-managed tools will refresh in the following specified time frames, with the
 * `IATI Datastore <https://iatidatastore.iatistandard.org/>`_ - refreshes every 24 hours
 * `IATI Validator <https://iativalidator.iatistandard.org/>`_ - refreshes every 2 hours
 * `IATI Dashboard <http://dashboard.iatistandard.org/>`_ and `IATI Publishing Statistics <http://publishingstats.iatistandard.org/>`_ - refreshes every 24 hours
-* `D-portal <http://d-portal.org/ctrack.html#view=search>`_ - refreshes every 24 hours
+* `D-portal <http://d-portal.org/ctrack.html#view=search>`_ - refreshes every 48 hours
 
-You should confirm the data is no longer available on the Registry, and in consuming applications after 24-36 hours.
+You should confirm the data is no longer available in consuming applications after 48 hours.
 
 External consuming applications not managed by IATI
 ---------------------------------------------------
 
-As an open data standard, IATI data is available for use by anyone wishing to build a consuming application that uses IATI data. If someone decides to remove their data from the IATI Registry, they should contact the external tool provider to check their data removal policy and refresh times.
+As an open data standard, IATI data is available for use by anyone wishing to build a consuming application that uses IATI data. If someone decides to remove their data from IATI Account, they should contact the external tool provider to check their data removal policy and refresh times.
 
 Asking for data to be removed
 =============================
 
-Asking a publisher directly
+Asking a reporting organisation directly
 ---------------------------
 
-If a user becomes aware of IATI data that they feel should not be shared openly, they should contact the publishing organisation directly to request that the data be removed. The person making the request should refer to the contact information provided in the profile of the publisher in the Registry, and should state:
+If a user becomes aware of IATI data that they feel should not be shared openly, they should contact the reporting organisation directly to request that the data be removed. When making the request, they should state:
 
 * their role and relationship to the data;
 * the specific data they are requesting be removed;
@@ -76,7 +79,7 @@ Making a take down request to the IATI Secretariat
 
 A request to take down data can be made by anyone.
 
-Publishers can make a take down request if:
+Reporting organisations can make a take down request if:
 
 - they are unable to follow the Data Removal Process, or
 - the data removal is urgent
@@ -95,7 +98,7 @@ The take down request process
 Requests from reporting organisations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-If the request is from the organisation that owns the data and it is clear what information is to be removed, we will work with the organisation to remove it from both their IATI publication and the Registry, if necessary.
+If the request is from the organisation that owns the data and it is clear what information is to be removed, we will work with the organisation to remove it from both their IATI publication and IATI Account, if necessary.
 
 Requests from third parties
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
