@@ -65,7 +65,7 @@ As an open data standard, IATI data is available for use by anyone wishing to bu
 Asking for data to be removed
 =============================
 
-Asking a publisher directly
+Asking a reporting organisation directly
 ---------------------------
 
 If a user becomes aware of IATI data that they feel should not be shared openly, they should contact the publishing organisation directly to request that the data be removed. When making the request, they should state:
