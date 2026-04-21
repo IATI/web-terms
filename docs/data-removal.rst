@@ -68,7 +68,7 @@ Asking for data to be removed
 Asking a reporting organisation directly
 ---------------------------
 
-If a user becomes aware of IATI data that they feel should not be shared openly, they should contact the publishing organisation directly to request that the data be removed. When making the request, they should state:
+If a user becomes aware of IATI data that they feel should not be shared openly, they should contact the reporting organisation directly to request that the data be removed. When making the request, they should state:
 
 * their role and relationship to the data;
 * the specific data they are requesting be removed;
