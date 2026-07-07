@@ -29,7 +29,7 @@ If we use rate limits or publish guidance on automated access, please follow it.
 Your account
 ------------
 
-Some tools let you create an account. If you do, you are responsible for keeping your login details secure and for activity that takes place under your account. Tell us if you believe your account has been compromised.
+Some tools let you create an account. If you do, you are responsible for keeping your login details secure and for activity that takes place under your account. `Contact us <https://iatistandard.org/en/guidance/get-support/>`_ if you believe your account has been compromised.
 
 IATI data
 ---------
@@ -51,4 +51,4 @@ We take reasonable care to provide useful and reliable services, but to the exte
 Contact
 -------
 
-If you wish to contact us or have any questions about or complaints in relation to these Terms of Service, please contact us at https://iatistandard.org/en/guidance/get-support/
+If you wish to contact us, or have any questions or complaints in relation to these Terms of Service, please contact us at https://iatistandard.org/en/guidance/get-support/.
